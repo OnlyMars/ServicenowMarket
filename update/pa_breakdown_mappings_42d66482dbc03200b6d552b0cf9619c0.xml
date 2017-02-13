@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="pa_breakdown_mappings">
+    <pa_breakdown_mappings action="INSERT_OR_UPDATE">
+        <breakdown display_value="Event">7096e082dbc03200b6d552b0cf961921</breakdown>
+        <facts_table>x_83763_marketing_attendee</facts_table>
+        <field>marketing_event</field>
+        <script/>
+        <scripted>false</scripted>
+        <sys_class_name>pa_breakdown_mappings</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-01-02 14:00:46</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>42d66482dbc03200b6d552b0cf9619c0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>7096e082dbc03200b6d552b0cf961921</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Marketing Events Application" source="x_83763_marketing">423d9148dbc43200b6d552b0cf9619d0</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Marketing Events Application">423d9148dbc43200b6d552b0cf9619d0</sys_scope>
+        <sys_update_name>pa_breakdown_mappings_42d66482dbc03200b6d552b0cf9619c0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-01-02 14:00:46</sys_updated_on>
+    </pa_breakdown_mappings>
+</record_update>

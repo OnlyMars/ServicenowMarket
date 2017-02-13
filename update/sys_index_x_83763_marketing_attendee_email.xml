@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_index">
+    <sys_index action="INSERT_OR_UPDATE">
+        <col_name_string>email</col_name_string>
+        <index_col_name element="email" name="x_83763_marketing_attendee">daf2b628dbc47200b6d552b0cf9619b7</index_col_name>
+        <logical_table_name>x_83763_marketing_attendee</logical_table_name>
+        <sys_class_name>sys_index</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2016-12-29 15:46:26</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>22c89838db887200b6d552b0cf961956</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_83763_marketing_attendee</sys_name>
+        <sys_package display_value="Marketing Events Application" source="x_83763_marketing">423d9148dbc43200b6d552b0cf9619d0</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Marketing Events Application">423d9148dbc43200b6d552b0cf9619d0</sys_scope>
+        <sys_update_name>sys_index_x_83763_marketing_attendee_email</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2016-12-29 15:46:26</sys_updated_on>
+        <table display_value="Attendee" name="x_83763_marketing_attendee">ccc2b628dbc47200b6d552b0cf96199f</table>
+        <unique_index>false</unique_index>
+    </sys_index>
+</record_update>

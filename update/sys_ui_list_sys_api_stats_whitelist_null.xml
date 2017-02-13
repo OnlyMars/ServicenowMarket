@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="sys_api_stats_whitelist" version="2" view="">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>api_name</element>
+            <list_id display_value="sys_api_stats_whitelist" element="NULL" name="sys_api_stats_whitelist" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">5623d9a3dbef2200b6d552b0cf9619a4</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-12-13 12:33:21</sys_created_on>
+            <sys_id>9a23d9a3dbef2200b6d552b0cf9619a4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-12-13 12:33:21</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>collect_api_stats</element>
+            <list_id display_value="sys_api_stats_whitelist" element="NULL" name="sys_api_stats_whitelist" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">5623d9a3dbef2200b6d552b0cf9619a4</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-12-13 12:33:21</sys_created_on>
+            <sys_id>1e23d9a3dbef2200b6d552b0cf9619a4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-12-13 12:33:21</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>collect_requestor_stats</element>
+            <list_id display_value="sys_api_stats_whitelist" element="NULL" name="sys_api_stats_whitelist" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">5623d9a3dbef2200b6d552b0cf9619a4</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-12-13 12:33:21</sys_created_on>
+            <sys_id>9e23d9a3dbef2200b6d552b0cf9619a4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-12-13 12:33:21</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>sys_api_stats_whitelist</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-12-30 08:28:30</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d92e3338db00b200b6d552b0cf9619d7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>sys_api_stats_whitelist</sys_name>
+            <sys_package display_value="Marketing Events Application" source="x_83763_marketing">423d9148dbc43200b6d552b0cf9619d0</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Marketing Events Application">423d9148dbc43200b6d552b0cf9619d0</sys_scope>
+            <sys_update_name>sys_ui_list_sys_api_stats_whitelist_null</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-12-30 08:28:30</sys_updated_on>
+            <sys_user display_value="Marcellin Maneno">6816f79cc0a8016401c5a33be04be441</sys_user>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>
